@@ -30,6 +30,6 @@ If you want the API used in this project you can use it:<BR>
 GET sneaker list
 /api/v1/sneaker
 
-GET only one
-/sneaker/par/:Id
+GET by id
+/api/v1/sneaker/par/:Id
 ```
